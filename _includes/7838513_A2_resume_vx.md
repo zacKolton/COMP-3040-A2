@@ -2,8 +2,6 @@
 
 <p style="text-align: center;">zac.kolton@hotmail.com | 2042274084 | East St. Paul, MB | www.linkedin.com/in/zac-kolton </p>
 
----
-
 <h2><strong>Education</strong></h2>
 
 <p><strong>University of Manitoba</strong></p>
@@ -11,8 +9,6 @@
 
 <p><strong>River East Collegiate</strong></p>
 <p>&nbsp;&nbsp;&nbsp;High School Diploma</p>
-
----
 
 <h2><strong>Work History</strong></h2>
 
@@ -25,13 +21,7 @@
 <p><strong>4L Communications - TELUS Authorized Dealer</strong></p>
 <p>&nbsp;&nbsp;&nbsp;Sales Representative</p>
 
----
-
 <h2><strong>Technical Skills</strong></h2>
 
 
 <h2><strong>Projects</strong></h2>
-
-
----
-### jekyll theme minimal github
